@@ -17,7 +17,7 @@ title: Technical Shizzle With The Erik Wolfe
 email: theerikwolfe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a series of blogs for me to post my programming experience with a bunch of strangers online. I hope it helps others to see how one man can change the course of history by learning how to do all the things.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "christians_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheErikWolfe
 github_username: TheErikWolfe 
