@@ -5,7 +5,7 @@ title: "First Post, Let's talk style"
 
 ## The moment you have been waiting for.. Whether you knew it or not.
 	
-Before I get into what this post is about let me say that this blog is brought to you by Awesome Inc U. With the guidance of a few well trained instructors I am slowly but surely learning my way around web programming. The class has taken off **fast** and I am running with two left feet but I am still keeping up. All this to be said, please be patient as I continue to make mistakes with html and css. More importantly, if something bothers you please don't be afraid to provide feedback. So, without further to do, enjoy my very first blog post!
+Before I get into what this post is about let me say that this blog is brought to you by Awesome Inc U. With the guidance of a few well trained instructors I am slowly but surely learning my way around web programming. The class has taken off **fast** and I am running with two left feet, but I'm still keeping up! All this to be said, please be patient as I continue to make mistakes with html and css. More importantly, if something bothers you please don't be afraid to provide feedback. So, without further to do, enjoy my very first blog post!
 		
 
 ## Consistent Styling. Por Que?
@@ -17,10 +17,12 @@ When you start programming the first and only thing you are looking to do is mak
 
 ## So why does it matter?
 	
-When you are writing a program the compiler will often accept anything as long as the semi-colons are in the right place and there are no syntax errors. In small programs the indentation or stylistic choices hardly seem important because even if it is hard-ish to read pretty soon you will have the program completed and you won't have to think about it again. 
-		
-	
-Now, imagine a program that is starting to get upwards of a thousance lines where standards aren't followed for style or indentations. Your code looks like a free for all and the winner is unclear. When you try to look back at it to fix a bug you can't tell a for loop from a function. So you inevitably give up and think to yourself "WHY OH WHY DIDN'T I HEAD CHRISTIANS WRANING!!"
+When you are writing a program the compiler will often accept anything as long as the semi-colons are in the right place and there are no syntax errors. You could write an entire program on a single line and the compiler won't even know the difference. In small programs the indentation or stylistic choices hardly seem important because even if it is hard-ish to read pretty soon you will have the program completed and you won't have to think about it again. 		
+
+Here is my warning:
+**DON'T DO THIS! START STYLISTIC PROGRAMMING NOW WHEN IT DOESN'T COUNT, SO WHEN IT DOES COUNT YOU ARE ALREADY DOING IT!**
+
+Now, imagine a program that is starting to get upwards of a thousand lines where standards aren't followed for style or indentations. Your code looks like a free for all and the winner is unclear. When you try to look back at it to fix a bug you can't tell a for loop from a function. So you inevitably give up and think to yourself "WHY OH WHY DIDN'T I HEED CHRISTIANS WARNINGS!!"
 		
 So let's get into this.
 		
@@ -56,7 +58,7 @@ x++;
 function code(x)
 {
 	for(var i = 0; i < x; i++)
-	{
+		{
 	if(i == 3)
 	{
 	x++;
@@ -180,6 +182,6 @@ Sure you can still read the second segment of code but compared to the first, it
 		
 ## This is Where You Thank Me
 
-In conclusion even though these things may feel basic, they are **EXTREMELY** important tools as a programmer. Your code may not always be just yours and just like with your handwriting, you don't want to write sloppy in case you or anyone else needs to come back and re-read your code. So remember, consistency is key for anything you write, and if you are confused when reading your code, it will be confusing to others to! 
+In conclusion even though these things may feel basic, they are **EXTREMELY** important tools as a programmer. Your code may not always be only yours and, just like with your handwriting, you don't want to write sloppy in case you or anyone else needs to come back and re-read your code. So remember, consistency is key for anything you write, and if you are confused when reading your code, it will be confusing to others to! 
 
-Alright folks, good luck with your programming and be careful out among them English.
+Alright folks, I'll step down from my soap box and pack up my picket signs. Good luck with your programming and be careful out among them English.
