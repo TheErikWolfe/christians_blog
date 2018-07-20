@@ -7,11 +7,11 @@ Good Morning! I know it has been about a month since I posted but it has been bu
 
 I'm sure you are thinking "Psh, I know how to Google". Cool. Good for you. I'm here to tell you, you can Google better. So let's dive into this.
 
-# Honing Your Power Over Google
+## Honing Your Power Over Google
 
 So you are googling (as a verb) a problem you are having with your program. You really aren't sure what the *real* problem is so you are just typing in a pretty vague problem and not getting back the results you want or need. This brings me to my first point. 
 
-## Using Keywords
+# Using Keywords
 
 Keywords are very important. They will point you toward the answer almost always. If you don't know what the keyword is you may have to do several Google searches to kind of get an idea of what other people are using and start using a common word between them as the keyword. However, nothing annoys me more than when I see one of *MY* keywords marked out under a post. That is Google's way of saying here is a site with everything except that word. 
 
@@ -50,8 +50,8 @@ Here are my last tips.
  - Don't forget to look for common keywords on the  way and include them in your next search. 
  - If it you can't find what your are looking for in the results, look in the videos and images. You'd be surprised how many answers I have found by checking the videos or in the middle of all the images.
 
- # En conclusión
-
+ ## In Conclusion
+ 
  In conclusion, I suggest using all the things I've put in this blog. I gaurantee that they work, and I know this because I made it through a lot of college using Google and not text books and have made it through all of this bootcamp with Google too. If that isn't a good track record, I don't know what is.
 
  Alright, thats enough out of me folks. So y'all be good now, ya hear, and remember, be careful out among them English. 
